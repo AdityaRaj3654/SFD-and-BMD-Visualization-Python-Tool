@@ -59,14 +59,5 @@ The script includes robust error handling to:
 - Detect issues with the Excel file format
 - Display available sheets if the expected data isn't found
 - Show sample data to help diagnose formatting problems
-## License
-MIT License
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-```plaintext
-
-This README provides a comprehensive overview of your SFD-BMD plotting tool, explaining its purpose, features, and usage instructions. It would make a good introduction to your project on GitHub.
- ```
-```
