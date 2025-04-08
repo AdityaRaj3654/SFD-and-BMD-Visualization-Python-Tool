@@ -1,6 +1,3 @@
-# GitHub Repository README for SFD-BMD Plotting Tool
-I'll create a README.md file for your GitHub repository that describes this Shear Force Diagram and Bending Moment Diagram plotting tool.
-
 # Shear Force and Bending Moment Diagram Plotter
 
 A Python tool that generates professional Shear Force Diagrams (SFD) and Bending Moment Diagrams (BMD) from structural analysis data.
